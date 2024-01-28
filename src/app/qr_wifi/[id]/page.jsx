@@ -1,7 +1,8 @@
+"use client";
 // Import necessary dependencies
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import { useRouter } from 'next/router';
+import { useRouter } from 'next/navigation';
 import { useSession } from 'next-auth/react';
 
 export default function WifiQREdit({ params }) {

@@ -29,7 +29,7 @@
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "lucide-react": "^0.311.0",
-    "next": "14.0.4",
+    "next": "14.2.15",
     "nodemailer": "^6.9.8",
     "nodemon": "^3.0.3",
     "payload": "^2.8.2",
